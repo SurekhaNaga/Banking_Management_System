@@ -6,7 +6,7 @@ public class Bankingsystem {
 	//Database details
 	static final String url = "jdbc:mysql://localhost:3306/BankingDB";
 	static final String user = "root";
-	static final String pass = "Renu@123";
+	static final String pass = "Surekha@1233";
 	static Scanner sc = new Scanner(System.in);
 	
 	//Database connection
@@ -142,4 +142,5 @@ public class Bankingsystem {
 			}
 		}
 	}
+
 }
